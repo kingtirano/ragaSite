@@ -1,0 +1,10 @@
+.backAbout {
+    height: 755px;
+    background: url(../assets/about_img.jpg) no-repeat #000;
+    overflow: hidden;
+    background-attachment: fixed;
+    background-position: 50% 0;
+    background-size: cover;
+    -ms-background-position-x: center!important;
+    background-position-x: center!important;
+}
