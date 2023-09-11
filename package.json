@@ -2,7 +2,7 @@
   "name": "ragasite",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://ragasite.github.io/",
+  "homepage": "https://kingtirano.github.io/ragaSite.github.io/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
